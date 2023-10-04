@@ -1,7 +1,6 @@
 # BERT-Financial - Fine-Tuning BERT for Financial Sentiment Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x%2B-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 A project focused on fine-tuning a BERT (Bidirectional Encoder Representations from Transformers) model for sentiment analysis in the financial domain. The goal is to develop a model capable of accurately classifying financial texts as positive, negative, or neutral sentiment.
@@ -31,3 +30,16 @@ virtualenv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 pip install -r requirements.txt
 ```
+
+Usage
+1. Clone the repository:
+  ```bash
+  git clone https://github.com/your-username/financial-sentiment-analysis.git
+  cd financial-sentiment-analysis
+  ```
+2. Run the Jupyter Notebook:
+   ```bash
+   jupyter notebook financial_sentiment_analysis.ipynb
+   ```
+
+
