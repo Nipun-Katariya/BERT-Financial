@@ -35,13 +35,13 @@ pip install -r requirements.txt
 1. Clone the repository:
    
   ```bash
-  git clone https://github.com/your-username/financial-sentiment-analysis.git
-  cd financial-sentiment-analysis
+      git clone https://github.com/your-username/financial-sentiment-analysis.git
+      cd financial-sentiment-analysis
   ```
 2. Run the Jupyter Notebook:
    
    ```bash
-   jupyter notebook financial_sentiment_analysis.ipynb
+      jupyter notebook financial_sentiment_analysis.ipynb
    ```
 3. Follow the instructions and code within the Jupyter Notebook to fine-tune and evaluate the BERT model.
 
