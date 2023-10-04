@@ -31,13 +31,15 @@ source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 pip install -r requirements.txt
 ```
 
-Usage
+## Usage
 1. Clone the repository:
+   
   ```bash
   git clone https://github.com/your-username/financial-sentiment-analysis.git
   cd financial-sentiment-analysis
   ```
 2. Run the Jupyter Notebook:
+   
    ```bash
    jupyter notebook financial_sentiment_analysis.ipynb
    ```
