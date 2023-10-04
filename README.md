@@ -43,5 +43,8 @@ pip install -r requirements.txt
    ```bash
    jupyter notebook financial_sentiment_analysis.ipynb
    ```
+3. Follow the instructions and code within the Jupyter Notebook to fine-tune and evaluate the BERT model.
 
+## Dataset
+The dataset used for fine-tuning is available in the /dataset directory. You can also replace it with your own financial sentiment dataset.
 
